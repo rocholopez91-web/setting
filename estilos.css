@@ -1,0 +1,42 @@
+body {
+    background-image: url("ed260b1aea6eadff7e19a2e35e442ee8.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.contenedor {
+    width: 350px;
+    background-color: rgb(19, 148, 68);
+    margin: 88px auto;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+}
+.foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+h1 {
+    color: darkblue;
+}
+p {
+    color: #333;
+    font-size: 16px;
+}
+button {
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: blue;
+}
